@@ -21,7 +21,7 @@ ShittestEv is an environment simulation at its shittest.
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+We have tons of shits:
 
 * [Docker] 
 * [Docker-compose] 
@@ -74,25 +74,3 @@ License
 ----
 
 MIT
-
-[//]: # 
-   [Docker]: <>
-   [Docker-compose]: <>
-   [Kubernates]: <>
-   [Redis]:  <>
-   [ELK]:  <>
-   [.Net]:  <>
-   [Ruby on Rails]: <>
-   [Spring]:  <>
-   [Jenkins]:  <>
-   [nginx]:  <>
-   [HAProxy]:  <>
-   [RabbitMQ]: <>
-   [Akka.NET]:  <>
-   [OAuth2]:  <>
-   [RxJS]: <>
-   [node.js]: <>
-   [Express]:  <>
-
-  
-
